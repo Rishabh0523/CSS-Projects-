@@ -1,0 +1,30 @@
+.web{
+    border:1px solid black ;
+    width: 700px;
+    height: 00px;
+   
+}
+img{
+     margin: 0px;
+     height: 500px;
+     width: 800px;
+}
+.money{
+    color:blue;
+    font-size:1rem;
+    font-size: xx-large;
+}
+
+.delete{
+    color: rgb(160, 152, 152);
+    font-size: xx-large;
+
+}
+button{
+  background-color:rgb(3, 147, 43);
+  color: white;
+ border: 1px solid green;
+ font-size: x-large;
+ padding: 3px;
+ border-radius: 8px;
+}
