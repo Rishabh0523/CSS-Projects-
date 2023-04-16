@@ -1,0 +1,45 @@
+*{
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.container{
+    height: 600px;
+    width: 600px;
+    background-color:aqua;
+    font-size: larger;
+    font-weight: 500;
+
+    
+}
+
+#box1{
+    position: absolute;
+    margin-left: 0px;
+    /* margin-top: 0px; */
+
+}
+
+#box2{
+    position: absolute;
+    margin-left: 520px;
+}
+
+#box3{
+    position: absolute;
+    margin-top: 550px;
+}
+
+#box4{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 250px;
+}
+
+#box5{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 550px;
+
+}
