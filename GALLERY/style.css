@@ -1,7 +1,7 @@
 * {
     margin:0;
     padding:0;
-    box-sizing:border-box;
+    box-sizing:border-box ;
   }
   
   #wrapper{
@@ -10,12 +10,12 @@
     overflow-y:auto;
   }
   
-  .container{
+  .container {
     height:100%;
     max-width:1200px;
     margin:0 auto;
     padding:20px;
-  }
+   }
   
   .container h1{
     margin: 20px 100px;
