@@ -64,7 +64,7 @@ p {
   position: relative;
   height: 40px;
   transition: all 200ms linear;
-  border-radius: 4px;
+  border-radius: 3.95px;
   width: 40px;
   overflow: hidden;
   border: none;
